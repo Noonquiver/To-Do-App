@@ -1,2 +1,2 @@
 # To-Do-App
-# Edited README.md as a CI/CD test run.
+# Erased first edit by replacing it with this sentence.
